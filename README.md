@@ -1,8 +1,9 @@
 # 🌧️ Cardiff Weather Data Pipeline
-An end-to-end data engineering project that ingests real-time weather forecast data for Cardiff, Wales, stores it in Azure Blob Storage, and transforms it through a Medallion Architecture in Snowflake for analysis.
+An end-to-end data engineering project that ingests real-time weather forecast data for Cardiff stores it in Azure Blob Storage, and transforms it through a Medallion Architecture in Snowflake for analysis.
 
 ## Architecture Diagram
-<img width="1408" height="768" alt="datappeline" src="https://github.com/user-attachments/assets/b59ba11d-d83a-4747-b7ec-20646dc0819e" />
+<img width="1033" height="504" alt="Screenshot 2026-05-14 163256" src="https://github.com/user-attachments/assets/2aa1f544-4483-4c21-b2d5-eb93cc78f460" />
+
 
 End-to-End Cardiff Weather Data Pipeline with Medallion Architecture
 
