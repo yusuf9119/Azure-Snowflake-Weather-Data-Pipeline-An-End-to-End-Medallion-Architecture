@@ -14,7 +14,7 @@ create storage integration azure_weather_int
 type = external_stage
 storage_provider = 'AZURE'
 ENABLED = TRUE
-AZURE_TENANT_ID = '29e387d0-69ec-4218-9856-1a723fea626f'
+AZURE_TENANT_ID = 'not putting token here'
 STORAGE_ALLOWED_LOCATIONS = ('azure://weatherdataforcardiff032.blob.core.windows.net/cardiffdata/');
 
 DESC STORAGE INTEGRATION azure_weather_int;
